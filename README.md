@@ -1,6 +1,6 @@
 # SwiftUI Calculator
 
-Basic calculator written in SwiftUI - XCode 13.
+Basic calculator written in SwiftUI - XCode 13
 
 ![Calculator](calculator.png)
 
